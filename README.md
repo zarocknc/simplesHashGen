@@ -3,6 +3,7 @@ Es un simple generador de checksum creado solo para practica
 ## Requisitos
 inquirer, hashlib
 ```
+python3
 pip install inquirer
 pip install hashlib
 ```
